@@ -1,0 +1,15 @@
+# Compiled EA
+MQL4/Experts/*.ex4
+MQL4/Experts/*.ex5
+
+# Data artifacts
+data/raw_logs/
+data/features/
+data/models/
+data/recommendations/
+
+# Logs / temp
+*.tmp
+*.swp
+.DS_Store
+.vscode/
